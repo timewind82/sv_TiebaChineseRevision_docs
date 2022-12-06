@@ -1,6 +1,6 @@
 # 关于此指南
 
-本文档采用vitepress编写，站点通过vercel部署。
+本文档采用vitepress编写，站点通过CloudFlare Pages部署。
 
 感谢以下各个站点提供的帮助：
 
