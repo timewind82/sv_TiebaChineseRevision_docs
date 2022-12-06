@@ -19,6 +19,7 @@ const coreMembers = [
 const partners = [
     { avatar: 'https://files.timewind.fun/2022/12/tb.1.3cdf3409.jpg', name: '@起名十分困难' },
     { avatar: 'https://files.timewind.fun/2022/12/tb.1.c654bfea.jpg', name: '@🐏🔯😈f' },
+    { avatar: 'https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.438312f4.WvHl9KPTz65e4F53Pdj63w?t=1480936054', name: '@Mars叔' },
 ]
 
 
