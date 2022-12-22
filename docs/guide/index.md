@@ -1,6 +1,6 @@
 # 使用指南
 
-![chr.webp](https://files.timewind.fun/2022/12/chr.webp)
+![chr.webp](https://cdn1.timewind.fun/2022/12/63a4464f781ef.webp)
 
 [[toc]]
 
@@ -57,7 +57,7 @@ ContentPatcher/
  └─ manifest.json
 ```
 
-![cp.png](https://files.timewind.fun/2022/12/cp.png)
+![cp.png](https://cdn1.timewind.fun/2022/12/63a446ca51caf.png)
 
 ### 安装MOD
 
@@ -88,7 +88,7 @@ ContentPatcher/
  └─ 额外信息请戳我/
 ```
 
-![chr.png](https://files.timewind.fun/2022/12/chr.png)
+![file_list.png](https://cdn1.timewind.fun/2022/12/63a446ca1c22f.png)
 
 ::: tip
 
@@ -112,7 +112,7 @@ ContentPatcher/
  └─ 你的其他MOD
 ```
 
-![chr2.png](https://files.timewind.fun/2022/12/chr2.png)
+![file_list2.png](https://cdn1.timewind.fun/2022/12/63a446c9d58c0.png)
 
 ### 控制台输出
 
