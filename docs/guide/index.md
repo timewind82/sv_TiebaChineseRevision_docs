@@ -1,10 +1,10 @@
 # 使用指南
 
-![chr.webp](https://cdn1.timewind.fun/2022/12/63a4464f781ef.webp)
+![chr.webp](https://files.timewind.fun/2022/12/chr.webp)
 
 [[toc]]
 
-::: tip
+::: tip 提醒
 
 贴吧中文修订MOD同样也属于众多星露谷物语MOD中的一种，所以在开始之前请首先确保你已正确安装并学会使用SMAPI。
 
@@ -24,7 +24,7 @@ Nexus上的星露谷物语贴吧中文修订MOD：https://www.nexusmods.com/star
 
 ### 安装前的准备
 
-::: warning
+::: warning 注意
 
 - 已在星露谷物语原版游戏的基础上安装SMAPI
 
@@ -57,7 +57,7 @@ ContentPatcher/
  └─ manifest.json
 ```
 
-![cp.png](https://cdn1.timewind.fun/2022/12/63a446ca51caf.png)
+![cp.png](https://files.timewind.fun/2022/12/cp.png)
 
 ### 安装MOD
 
@@ -88,9 +88,9 @@ ContentPatcher/
  └─ 额外信息请戳我/
 ```
 
-![file_list.png](https://cdn1.timewind.fun/2022/12/63a446ca1c22f.png)
+![chr.png](https://files.timewind.fun/2022/12/chr.png)
 
-::: tip
+::: tip 提示
 
 此时可以直接将整个文件夹放至Mods文件夹内，也可以选择舍弃额外信息文件夹，单独将[CP]贴吧官方中文修订MOD本体文件夹放至Mods文件夹内，都不影响SMAPI读取运行。
 
@@ -112,7 +112,7 @@ ContentPatcher/
  └─ 你的其他MOD
 ```
 
-![file_list2.png](https://cdn1.timewind.fun/2022/12/63a446c9d58c0.png)
+![chr2.png](https://files.timewind.fun/2022/12/chr2.png)
 
 ### 控制台输出
 

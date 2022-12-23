@@ -33,7 +33,7 @@ const partners = [
     { avatar: 'https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.7333c2e4.Kw6wHC-SjboFkj4WTFgzbw?t=1659092100', name: '@PEACHNOSE' },
     { avatar: 'https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.f928362b.LibdYcLvLOUfvGeijLrpIA', name: '@夜末黎明' },
     { avatar: 'https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.13e231d0.UWgLsbDwdGsN9KQI9mONwg', name: '@柜子里的芝士' },
-    { avatar: 'https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.2acde27.B2I9xtpkzo2oK84dgfTTDQ?t=1586355804', name: '蘑菇王' },
+    { avatar: 'https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.2acde27.B2I9xtpkzo2oK84dgfTTDQ?t=1586355804', name: '@蘑菇王' },
     { avatar: 'https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.4bfd3f36.L7S_TNDqjkH6G-NCRWtybw?t=1656609936', name: '@卷起千堆雪11' },
     { avatar: 'https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.23236029.rroQZygrIig4L4J6aafqqw?t=1639653819', name: '@SithLord2000' },
     { avatar: 'https://gss0.bdstatic.com/6LZ1dD3d1sgCo2Kml5_Y_D3/sys/portrait/item/tb.1.7b1cec34.Wo-w9jjhGM2ARYXs_5yT0g?t=1665826272', name: '@深海红炎' },
