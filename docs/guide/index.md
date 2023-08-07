@@ -65,7 +65,7 @@ ContentPatcher/
 
 从国内下载环境出发，推荐度由上到下为：
 
-- 蓝奏云 [点此前往下载页](https://wwub.lanzoue.com/i59jI05u4p0f) 密码:eozv
+- 蓝奏云 [点此前往下载页](https://wwub.lanzoue.com/b01j3ducj) 密码:eozv
 > 蓝奏云有时会因为自身原因导致原下载链接失效，请自行尝试更换官方最新链接进行下载。
 
 - 百度网盘 [点此前往下载页](https://pan.baidu.com/s/1W7615ZiYV4Q5Rk1mJ-hmbw?pwd=an06) 提取码:an06
